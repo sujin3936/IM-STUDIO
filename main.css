@@ -1,0 +1,146 @@
+body {
+  overflow-x: hidden;
+}
+
+/*메인페이지 바프사진*/
+div > img { 
+  width: 510px;
+  height: 650px;
+  position: relative;
+  margin-top: 3.8%;
+  margin-left: 9.2%;
+  margin-right: -4%;
+  z-index: 1;
+}
+/*스튜디오 문구*/
+#title2 > img {
+  width: 700px;
+  height: 100px;
+  position: absolute;
+  margin-top: -28%;
+  margin-left: 24%;
+  z-index: 2;
+}
+/*가운데 선*/
+#solid1 {
+  border-right: 1px solid rgb(162, 161, 161);
+  width: 49.8%;
+  height: 108.5%;
+  position: absolute;
+  margin-top: 10%;
+}
+/*가로 선*/
+#solid2 {
+  border-top: 1px solid rgb(162, 161, 161);
+  border-bottom: 1px solid rgb(162, 161, 161);
+  width: 99%;
+  height: 86.8%;
+  position: absolute;
+  margin-top: 22.1%;
+}
+/*소개페이지 문구 박스*/
+#box1 {
+  width: 40%;
+  border: none;
+  height: 40%;
+  font-size: 100px; 
+  position: absolute;
+  margin-top: 35.8%;
+  padding-left: 8%;
+  font-family: 'DM Serif Display', serif;
+}
+/*원 박스*/
+#circle1 {
+  border-radius: 100%;
+  border: 1px solid rgb(162, 161, 161);
+  width: 49.5%;
+  height: 86.4%;
+  position: absolute;
+  margin-left: 49.8%;
+  margin-top: 22.2%;
+}
+#circle2 {
+  border-radius: 100%;
+  background-color: black;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  margin-top: 35%;
+  margin-left: 59%;
+}
+/*비전 문구*/
+#box2 {
+  width: 33.5%;
+  height: 30%;
+  text-align: justify;
+  border: none;
+  position: relative;
+  margin-left: 59%;
+  margin-top: 5%;
+  color:  black;
+  font-size: 20px;
+  line-height: 27px;
+  font-family: 'DM Serif Display', serif;
+}
+#box3 {
+  width: 33.5%;
+  height: 30%;
+  text-align: justify;
+  border: none;
+  position: relative;
+  margin-left: 59%;
+  margin-top: 3%;
+  color: rgb(157, 156, 156);
+  line-height: 27px;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+/*상세페이지 이동 글자 박스*/
+#box4 {
+  width: 98%;
+  height: 20%;
+  border-bottom: 3px solid black;
+  font-family: 'DM Serif Display', serif;
+  position: relative;
+  color: black;
+  font-size: 150px;
+  margin-top: 20%;
+  margin-left: 1.1%;
+}
+.material-icons.md-150 {
+  font-size: 150px;
+  position: absolute;
+  margin: -13.4% 0 0 1100px;
+}
+a, a:visited {
+  color: black;
+  text-decoration: none;
+}
+/*하단 박스*/
+#footer {
+  font-family: 'Noto Sans KR', sans-serif;
+  color: gray;
+  width: 80%;
+  height: 14%;
+  font-size: 12px;
+  padding: 5% 0 0 1.5%;
+}
+#bottom2 {
+  position: relative;
+  width: 12%;
+  left: 110%;
+  top: 1.5%;
+  margin-bottom: 2%;
+  font-family: 'LINESeedKR-Bd', sans-serif;
+  color: gray;
+  font-size: 15px;
+  padding: 5% 0 0 0;
+}
+.link_ho > a {
+  color: gray;
+}
+.link_ho > a:hover {
+  color: black;
+}
+
+
+

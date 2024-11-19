@@ -1,0 +1,243 @@
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+}
+.header {
+    position: relative;
+    width: 100vw; /* 화면의 가로 크기에 꽉 맞게 설정 */
+    background-color: white;
+}
+.headImg {
+    width: 48%;
+}
+.headImg > img {
+    width: 40%;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 1.8%;
+}
+.menu {
+    position: absolute;
+    width: 50%;
+    margin-left: 43%;
+    margin-top: -2.7%;
+    font-size: 15px;
+    text-align: right;
+    font-family: "Noto Sans KR", sans-serif;
+}
+.section {
+    position: relative;
+    width: 100%;
+    display: flex;
+    margin-top: 0.8%;
+}
+.img1 {
+    display: block;
+    width: 100%;
+}
+a, a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.nav2 {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 5%;
+    width: 20%;
+    height: 50%;
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+ul {
+    position: relative;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+li {
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 52px;
+    list-style: none;
+}
+
+.main {
+    width: 900px;
+    height: 500px;
+    position: relative;
+    margin-left: 20%;
+    margin-top: 12%;
+}
+
+.main > img {
+    width: 53%;
+    height: 60%;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.box5 {
+    position: relative;
+    margin-left: 55%;
+    margin-top: -34.5%;
+    font-size: 13px;
+}
+
+.box6 {
+    font-size: 15px;
+    line-height: 25px;
+    position: relative;
+    margin-top: 70px;
+    font-weight: lighter;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.footer {
+    font-family: 'Noto Sans KR', sans-serif;
+    color: gray;
+    width: 100%;
+    height: 14%;
+    font-size: 12px;
+    padding: 50px 0 10px 15px;
+    position: absolute;
+    border-top: 1px solid gray;
+}
+
+.main2 {
+    width: 900px;
+    height: 500px;
+    position: relative;
+    margin-left: 25%;
+    margin-top: 12%;
+}
+
+.main2 > img {
+    width: 37%;
+    height: 80%;
+}
+
+.main3 {
+    width: 900px;
+    height: 500px;
+    position: relative;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.main3 > img {
+    width: 37%;
+    height: 80%;
+}
+
+.main4 {
+    width: 900px;
+    height: 500px;
+    position: relative;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.main4 > img {
+    width: 37%;
+    height: 80%;
+}
+
+table {
+    width: 50%;
+    height: 70%;
+    position: relative;
+    margin-left: 30%;
+    margin-top: 11%;
+    font-size: 14px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+td {
+    padding: 15px;
+}
+
+button {
+    width: 100px;
+    height: 35px;
+    background-color: rgb(230, 230, 230);
+    border: 0;
+    margin-bottom: 90px;
+    margin-top: 30px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+input {
+    border: 0px;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+select {
+    border: 0px;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.main5 {
+    position: relative;
+    width: 900px;
+    height: 500px;
+    margin-left: 20%;
+    margin-top: 12%;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.main6 {
+    position: relative;
+    width: 900px;
+    height: 500px;
+    margin-top: -3%;
+    margin-left: 20%;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.main7 {
+    position: relative;
+    width: 850px;
+    height: 400px;
+    margin-left: 5%;
+    margin-top: 12%;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.main7 > table {
+    width: 100%;
+    height: 70px;
+    border-top: 1px solid black;
+    border-collapse: collapse;
+}
+
+.main7 td, .main7 th {
+    border-bottom: 1px solid black;
+}
