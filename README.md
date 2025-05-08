@@ -1,4 +1,4 @@
 # IM STUDIO
 바디프로필 홈페이지
 
-[UX_UI-포트폴리오_2022081100_황수진.pdf](https://github.com/user-attachments/files/17808810/UX_UI-._2022081100_.pdf)
+![001](https://github.com/user-attachments/assets/21b39920-d51d-4cbe-8cb1-b0f3bfd0da17)
